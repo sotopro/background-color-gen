@@ -1,0 +1,1 @@
+export const getRgbColor = (): number => Math.floor(Math.random() * 256);
